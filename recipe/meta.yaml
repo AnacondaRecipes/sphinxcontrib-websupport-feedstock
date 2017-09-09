@@ -21,8 +21,10 @@ requirements:
     - pip
     - python
     - setuptools
+    - sphinxcontrib
   run:
     - python
+    - sphinxcontrib
 
 test:
   imports:
