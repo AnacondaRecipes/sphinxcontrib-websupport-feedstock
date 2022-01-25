@@ -19,6 +19,8 @@ build:
 requirements:
   host:
     - pip
+    - setuptools
+    - wheel
     - python
     - setuptools
     - sphinxcontrib
